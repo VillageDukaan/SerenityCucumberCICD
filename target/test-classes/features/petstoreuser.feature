@@ -11,7 +11,7 @@ Examples:
 	|lova     | fName     | lName    | lova@gmail.com | password | 9182818131  |
 	
 
-
+# Login User Scenario
 Scenario Outline: Login User
 When I login using <username> and <password>, user should see 200 status code
 
