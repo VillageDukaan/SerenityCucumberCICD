@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"User flow","User registration","SUCCESS","2020-11-05T11:04:17.213+05:30[Asia/Calcutta]","0.0","10.48"
+"User flow","Login User","SUCCESS","2020-11-05T11:04:27.704+05:30[Asia/Calcutta]","0.0","1.89"
+"User flow","Delete Registered User","SUCCESS","2020-11-05T11:04:29.602+05:30[Asia/Calcutta]","0.0","3.19"
