@@ -1,7 +1,7 @@
 Feature: User flow
 As a user I want to register to Pet Store
 
-
+# User Registration Scenario
 Scenario Outline: User registration
 When I create a new user with <username> <firstName> <lastName> <email> <password> <phone>
 Then I verify that the user with <username> is registered
